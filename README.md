@@ -27,7 +27,6 @@ I modeled the data using a Snowflake Schema and gathered additional information 
 ## Dashboard Overview
 <b>Home Page</b> - Upon their first login, users will be directed to this page, from which they can navigate to various other sections
 
-![image](https://github.com/user-attachments/assets/345b5ef3-1792-4902-b60c-7e0b4447b76c)
 
 ![image](https://github.com/user-attachments/assets/b080dd27-478d-4577-b009-da9c79cdc0a4)
 
@@ -35,6 +34,8 @@ I modeled the data using a Snowflake Schema and gathered additional information 
 <b>Overview Page</b> - Shows key metrics like total trips, fare, and new passenger acquisition for 2024, along with city ratings, month-on-month revenue growth, and the best/worst performing months
 
 ![image](https://github.com/user-attachments/assets/92f9ae79-eb71-45e8-a45a-362be4384830)
+
+![image](https://github.com/user-attachments/assets/345b5ef3-1792-4902-b60c-7e0b4447b76c)
 
 <b>Trip Report Page</b> - Displays key trip metrics such as min/max trip distance, average fare per trip, and trip distribution by city type
 
