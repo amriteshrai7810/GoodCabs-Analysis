@@ -29,6 +29,9 @@ I modeled the data using a Snowflake Schema and gathered additional information 
 
 ![image](https://github.com/user-attachments/assets/b080dd27-478d-4577-b009-da9c79cdc0a4)
 
+![image](https://github.com/user-attachments/assets/345b5ef3-1792-4902-b60c-7e0b4447b76c)
+
+
 <b>Overview Page</b> - Shows key metrics like total trips, fare, and new passenger acquisition for 2024, along with city ratings, month-on-month revenue growth, and the best/worst performing months
 
 ![image](https://github.com/user-attachments/assets/92f9ae79-eb71-45e8-a45a-362be4384830)
