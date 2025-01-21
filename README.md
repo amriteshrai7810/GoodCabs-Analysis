@@ -1,5 +1,7 @@
 # GoodCabs - Performance Analysis & SQL Insights
 
+<b>Live Dashboard Link: [Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiNjgwY2RkZGQtOGY4Ni00MDZkLTgzMzctNWQ2ZmEyNDM4MmZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection152489641e004e0b39e5)</b>
+
 ##
 The objective of this analysis is to evaluate Goodcabs' performance across critical metrics such as trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance of new vs. repeat passengers. This will help identify actionable insights to support the 2024 growth and service enhancement goals. 
 
